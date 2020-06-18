@@ -44,6 +44,7 @@ const words = [
   'web development',
   'focus',
   'love',
+  'Gate 2021',
   'hero',
   'javascript',
   'nutrition',
